@@ -1,0 +1,22 @@
+body{
+
+}
+h1{
+	color: indianred;
+	text-align: center;
+	background-color: grey;
+	font-style: italic;
+	font-family: verdana, sans-serif;
+}
+ul li:nth-child(3){
+	background-color: grey;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+#ortho{
+	width: 800px;
+	color: darkblue;
+	font-family: helvetica;
+	font-size: 24px;
+}
