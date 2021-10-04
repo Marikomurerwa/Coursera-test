@@ -1,0 +1,23 @@
+*{
+	box-sizing: border-box;
+	font-family: 'Oxygen', sans-serif;
+}
+header{
+	margin-bottom: 10px;
+}
+
+.navbar-brand h2{
+	color: #00008B;
+}
+
+.column{
+	margin-bottom: 10px;
+	position: relative;
+}
+
+.inside{
+	background-color: #e3f2fd;
+}
+.navbar,.navbar-expand-lg{
+	background-color: #e3f2fd;
+}
