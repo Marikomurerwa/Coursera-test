@@ -15,7 +15,7 @@ header{
 	position: relative;
 }
 
-.inside{
+.inside1, .inside2, .inside3{
 	background-color: #e3f2fd;
 }
 .navbar,.navbar-expand-lg{
